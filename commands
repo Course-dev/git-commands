@@ -3,3 +3,6 @@ git merge
 git push
 git rebase
 git clone
+git branch
+git checkout
+
